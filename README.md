@@ -1,6 +1,6 @@
 
 #APICloud选择相册模块文档
-
+采用的是[TZImagePickerController](https://github.com/banchichen/TZImagePickerController)
 ##1.setParam
 设置参数
 ```html
